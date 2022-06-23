@@ -1,4 +1,5 @@
 # Vue.js
+/
 
 This directory is a brief example of a [Vue.js](https://vuejs.org/) app that can be deployed to Vercel with zero configuration.
 
